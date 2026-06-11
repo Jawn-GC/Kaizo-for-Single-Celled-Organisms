@@ -1,7 +1,7 @@
 meta = {
     name = 'Kaizo for Single-Celled Organisms',
 	description = "Levels for building kaizo confidence.",
-    version = '1.0',
+    version = '1.1',
     author = 'JawnGC',
 }
 
